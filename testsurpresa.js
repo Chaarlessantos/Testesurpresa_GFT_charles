@@ -1,3 +1,5 @@
+https://playcode.io/2038160
+
 // Fiz uma lista onde separei por nome, level, gênero (m ou f), escala de força (Poder), idade, tipo do poder
 
 //realizei um codigo que mostrasse no console os pokemon que podiam entrar numa futura competição. os requisitos para competir eram:
